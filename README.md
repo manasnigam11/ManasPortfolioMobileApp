@@ -25,6 +25,12 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+## Download Android APK
+
+Download the latest APK here:
+
+https://github.com/manasnigam11/ManasPortfolioMobileApp/releases/latest
+
 ## Get a fresh project
 
 When you're ready, run:
